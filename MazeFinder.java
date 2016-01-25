@@ -2,6 +2,10 @@ package pathFinder;
 
 import java.util.ArrayList;
 
+/** Programming Challenge: Maze Route Finder
+ * @author anikaitsingh
+ */
+
 public class MazeFinder {
 	
 	private static ArrayList<Coordinate> path = new ArrayList<Coordinate>(); //has the list of coordinates one must follow
