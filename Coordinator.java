@@ -3,6 +3,10 @@ package pathFinder;
 import java.io.*;
 import java.util.ArrayList;
 
+/** Programming Challenge: Maze Route Finder
+ * @author anikaitsingh
+ */
+
 public class Coordinator {
 	
 	public static void main(String[] args){		
