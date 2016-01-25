@@ -1,0 +1,9 @@
+OP|PPPP
+|PPP|PP
+||||||P
+|||||PP
+||||||P
+PPPPPPP
+PPP||||
+||PP|||
+|||PPPX
