@@ -44,7 +44,7 @@ public class Coordinator {
 	
 	//prints a 2 dimensional character array
 	public static void print2DCharArray(char[][] arr){
-		System.out.println("{ ");
+		System.out.print("[");
 		for(int i = 0; i < arr.length; i++){
 			System.out.print("[ ");
 			for(int j = 0; j < arr[0].length; j++){
@@ -52,7 +52,7 @@ public class Coordinator {
 			}
 			System.out.println("]");
 		}
-		System.out.println("\n}\n");
+		System.out.println("]\n");
 	}
 	
 	
