@@ -1,5 +1,5 @@
 # TrailBlazer
-This program finds a path through a maze given by a file
+This program finds a path through a maze given by a file.
 
 An example maze is the following:
 OPPPPPX
